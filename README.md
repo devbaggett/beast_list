@@ -1,6 +1,5 @@
 # Beast List
 
-Adding to the Beast List  
 Build an application that can display our hardcoded data in a Table View, using textField and insert buttons to add new items!  
 
 Challenge: Insert New Tasks  
